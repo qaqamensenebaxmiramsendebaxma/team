@@ -71,7 +71,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             [
                 InlineKeyboardButton(
                     text=_["BACK_BUTTON"],
-                    callback_data=f"settings_back_helper",
+                    callback_data=f"LG",
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"], callback_data=f"close"
