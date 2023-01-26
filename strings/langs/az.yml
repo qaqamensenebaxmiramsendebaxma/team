@@ -214,31 +214,31 @@ queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0
 queue_4 : "🎵Musiqi:** {1}\n**⏳Müddəti:** {2}\n👤**İstəyən:** {3}\n🎶Musiqinin Sırası **{0}"
 
 # All Streaming Lines
-stream_1 : "📡 **Yayım başladı** 💡\n\n👤**Tələb:** {0}\n🔦**Məlumat: **[Burada]({1})"
-stream_2 : "📡 **URL vasitəsilə yayıma başladı ** 💡\n\n👤**Tələb edən:** {0}"
-stream_3 : "📡 **Yayım başladı** 💡\n\n**🏷Başlıq:** {0}\n⌛️**Müddət**: {1}\n👤**İstəyən:** {2} "
-stream_4 : "🎵Musiqi:** [{0}]({1})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_1 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {0}\nℹ️**Məlumat: **[Burada]({1})"
+stream_2 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_3 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_4 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Bağla"
-CLOSEMENU_BUTTON  : "🗑 Menyunu bağlayın"
-BACK_BUTTON : "⬅ Geri"
-UNBAN_BUTTON : "🗑 Köməkçinin qadağasını aradan qaldırın"
+CLOSE_BUTTON  : "🗑Bağla"
+CLOSEMENU_BUTTON  : "🗑Bağla"
+BACK_BUTTON : "⬅️Geri"
+UNBAN_BUTTON : "⛔Asistanın Banını Açın"
 
 #Lyrics
 L_B_1 : "🚀 İndi Mahnıları yoxlayın"
 
 # Start
-S_B_1 : "🗒 Əmrlər"
-S_B_2 : "🔧 Parametrlər"
-S_B_3 : "📨 Dəstək"
-S_B_4 : "📨 Kanal"
-S_B_5 : "✚ Məni öz qrupuna əlavə et"
+S_B_1 : "👑Əmrlər"
+S_B_2 : "🔧Parametrlər"
+S_B_3 : "🆘Dəstək"
+S_B_4 : "⚡Kanal"
+S_B_5 : "➕Qrupa əlavə Et➕"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Sahibi"
-S_B_8 : "🔎 Necə İstifadə Edilir? Komandalar Menyu."
+S_B_7 : "👤Botun Sahibi"
+S_B_8 : "👑Əmrlər"
 
 #Help 
 H_B_1 : "Admin Əmrləri"
