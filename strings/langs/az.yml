@@ -214,10 +214,10 @@ queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0
 queue_4 : "🎵Musiqi:** {1}\n**⏳Müddəti:** {2}\n👤**İstəyən:** {3}\n🎶Musiqinin Sırası **{0}"
 
 # All Streaming Lines
-stream_1 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {0}\nℹ️**Məlumat: **[Burada]({1})"
-stream_2 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
-stream_3 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
-stream_4 : "🎵Musiqi:** [{0}]({5})\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_1 : "🎵Musiqi:** {1}\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {0}\nℹ️**Məlumat: **[Burada]({1})"
+stream_2 : "🎵Musiqi:** {1}\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_3 : "🎵Musiqi:** {1}\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
+stream_4 : "🎵Musiqi:** {1}\n⌛️**Müddəti**: {2}\n👤**İstəyən:** {3}"
 
 # Inline Buttons
 
